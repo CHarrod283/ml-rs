@@ -45,6 +45,7 @@ checksum = "04c3b4822ccebfa39c02fc03d1534441b22ead323fa0f48bb7ddd8e6ba076a40"
 name = "matrix"
 version = "0.1.0"
 dependencies = [
+ "num",
  "rand",
 ]
 
